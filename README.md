@@ -1,3 +1,6 @@
 # Project-Euler
-Solution of problems in projecteuler.net 
-Source: https://projecteuler.net/archives
+Performing solution of some problems in projecteuler.net 
+
+**Source:** https://projecteuler.net/archives
+
++ Problem #1: *Multiples of 3 and 5*
