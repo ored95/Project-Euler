@@ -26,4 +26,4 @@ class Factors:
 
 test = Factors(int(input("Input number N: ")))
 test.search_largest_prime_factor()
-print("The largest prime factor is", test.max_factor)
+print("The largest prime factor is %d" % (test.max_factor))
